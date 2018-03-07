@@ -210,4 +210,30 @@ end
 
 
 
+function M.get_moon_phase_description(mp)
+    if mp == nil or type(mp) ~= "number" then
+        return "Missing"
+    end
+
+    if mp == 0.0 then
+        return "New Moon"
+    elseif mp == 0.25 then
+        return "First Quarter Moon"
+    elseif mp == 0.50 then
+        return "Full Moon"
+    elseif mp == 0.75 then
+        return "Last Quarter Moon"
+    elseif mp > 0.0 and mp < 0.25 then
+        return "Waxing Crescent"
+    elseif mp > 0.25 and mp < 0.50 then
+        return "Waxing Gibbous"
+    elseif mp > 0.50 and mp < 0.75 then
+        return "Waning Gibbous"
+    elseif mp > 0.75 then
+        return "Waining Crescent"
+    end
+end
+
+
+
 return M
