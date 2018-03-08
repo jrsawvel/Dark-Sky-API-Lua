@@ -16,7 +16,7 @@ local dsutils = require "dsutils"
 
 
 
-local api_key   = "<api key>"
+local api_key   = "<api-key>"
 local latitude  = "41.665556"
 local longitude = "-83.575278"
 
