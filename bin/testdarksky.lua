@@ -30,6 +30,9 @@ local ds = DarkSky(api_key, latitude, longitude)
 -- change the url to point to test data.
 -- currently the code requires the data to be stored at https, like Dark Sky uses.
 -- ds:apiurl("https://elsewhere/darksky05mar2018.json")
+-- boston, ma
+-- ds:apiurl("https://api.darksky.net/forecast/cd50a948f24600c7cc2986548ee741f1/42.3605,-71.0596")
+
 
 -- can also retrieve old data by doing:
 --    ds:fetch_data("2018-03-05T:17:24:39-0000")
@@ -133,6 +136,31 @@ else
 end
 
 
+
+
+local alerts = wx.alerts
+if alerts == nil then 
+    print("\n\nNo alerts exist at this time for this location.")
+else
+    print("\n\nThe following alerts exist for this location.")
+    for i=1, #alerts do
+        print(" Title = " .. alerts[i].title)
+        print(" Description = " .. alerts[i].description)
+        print(" Alert start time = " .. dsutils.format_date_iso(alerts[i].expires))
+        print(" Alert local start time = " .. os.date("%I:%M %p, %a, %b %d, %Y ", alerts[i].time + (wx.offset * 3600)))
+        print(" Expires = " .. dsutils.format_date_iso(alerts[i].expires))
+        print(" Expires local time = " .. os.date("%I:%M %p, %a, %b %d, %Y ", alerts[i].expires + (wx.offset * 3600)))
+        print(" Severity = " .. alerts[i].severity)
+        print(" URL = " .. alerts[i].uri)
+        if alerts[i].regions ~= nil then
+            local regions = alerts[i].regions
+            print(" Alert includes the following areas: ")
+            for r=1, #regions do
+                print("    " .. regions[r])
+            end
+        end
+    end
+end
 
 
 print("\n\nMinute by Minute Forecast - Next Hour")

@@ -1,0 +1,1042 @@
+Current Weather Conditions
+              date and time = 2018-03-12T02:00:15Z
+                    summary = Partly Cloudy
+                       icon = partly-cloudy-night
+                   air temp = 37 F
+                  dew point = 23 F
+             wind direction = WNW
+   wind direction full name = West-Northwest
+                 wind speed = 4 mph
+                  wind gust = 4 mph
+            temp feels like = 34 F
+                   pressure = 1018.66 mb
+                   pressure = 30.08 in
+                   humidity = 56%
+                      ozone = 445.23 Dobson units
+                   uv index = 0.0
+            uv index rating = Low
+        uv index color code = #008000;
+                precip prob = 0%
+                cloud cover = 45%
+           cloud cover desc = Partly Cloudy
+            precip itensity = 0.0
+      precip intensity desc = No Precip
+     precip intensity color = #000000;
+                 visibility = 9.03 miles
+    nearsest precip bearing = South-Southwest
+    nearest precip distance = 26 miles
+
+
+The following alerts exist for this location.
+ Title = Winter Storm Watch
+ Description = ...WINTER STORM WATCH FROM MONDAY EVENING THROUGH TUESDAY EVENING... * WHAT...Heavy snow. Total snow accumulations of around 6 to 12 inches, with localized amounts up to 18 inches, are possible. * WHERE...Portions of northern Connecticut, western, central, eastern and southeastern Massachusetts, as well as all of Rhode Island. * WHEN...From Monday evening through Tuesday evening. * ADDITIONAL DETAILS...Travel could be very difficult to impossible, including during the morning commute on Tuesday. Damage to trees and power lines is possible as snow will be accompanied with strong to damaging winds, especially over southeast Massachusetts and Rhode Island. Significant reductions in visibility are possible.
+
+ Alert start time = 2018-03-14T00:00:00Z
+ Alert local start time = 08:00 PM, Mon, Mar 12, 2018 
+ Expires = 2018-03-14T00:00:00Z
+ Expires local time = 08:00 PM, Tue, Mar 13, 2018 
+ Severity = watch
+ URL = https://alerts.weather.gov/cap/wwacapget.php?x=MA125A9847BFD0.WinterStormWatch.125A98728A80MA.BOXWSWBOX.eaf87164bced9b1a67bf497d7fdd9896
+ Alert includes the following areas: 
+    Barnstable
+    Central Middlesex County
+    Dukes
+    Eastern Essex
+    Eastern Franklin
+    Eastern Hampden
+    Eastern Hampshire
+    Eastern Norfolk
+    Eastern Plymouth
+    Northern Bristol
+    Northern Worcester
+    Northwest Middlesex County
+    Southeast Middlesex
+    Southern Bristol
+    Southern Plymouth
+    Southern Worcester
+    Suffolk
+    Western Essex
+    Western Franklin
+    Western Hampden
+    Western Hampshire
+    Western Norfolk
+    Western Plymouth
+
+
+Minute by Minute Forecast - Next Hour
+2018-03-12T02:00:00Z : No Precip
+2018-03-12T02:01:00Z : No Precip
+2018-03-12T02:02:00Z : No Precip
+2018-03-12T02:03:00Z : No Precip
+2018-03-12T02:04:00Z : No Precip
+2018-03-12T02:05:00Z : No Precip
+2018-03-12T02:06:00Z : No Precip
+2018-03-12T02:07:00Z : No Precip
+2018-03-12T02:08:00Z : No Precip
+2018-03-12T02:09:00Z : No Precip
+2018-03-12T02:10:00Z : No Precip
+2018-03-12T02:11:00Z : No Precip
+2018-03-12T02:12:00Z : No Precip
+2018-03-12T02:13:00Z : No Precip
+2018-03-12T02:14:00Z : No Precip
+2018-03-12T02:15:00Z : No Precip
+2018-03-12T02:16:00Z : No Precip
+2018-03-12T02:17:00Z : No Precip
+2018-03-12T02:18:00Z : No Precip
+2018-03-12T02:19:00Z : No Precip
+2018-03-12T02:20:00Z : No Precip
+2018-03-12T02:21:00Z : No Precip
+2018-03-12T02:22:00Z : No Precip
+2018-03-12T02:23:00Z : No Precip
+2018-03-12T02:24:00Z : No Precip
+2018-03-12T02:25:00Z : No Precip
+2018-03-12T02:26:00Z : No Precip
+2018-03-12T02:27:00Z : No Precip
+2018-03-12T02:28:00Z : No Precip
+2018-03-12T02:29:00Z : No Precip
+2018-03-12T02:30:00Z : No Precip
+2018-03-12T02:31:00Z : No Precip
+2018-03-12T02:32:00Z : No Precip
+2018-03-12T02:33:00Z : No Precip
+2018-03-12T02:34:00Z : No Precip
+2018-03-12T02:35:00Z : No Precip
+2018-03-12T02:36:00Z : No Precip
+2018-03-12T02:37:00Z : No Precip
+2018-03-12T02:38:00Z : No Precip
+2018-03-12T02:39:00Z : No Precip
+2018-03-12T02:40:00Z : No Precip
+2018-03-12T02:41:00Z : No Precip
+2018-03-12T02:42:00Z : No Precip
+2018-03-12T02:43:00Z : No Precip
+2018-03-12T02:44:00Z : No Precip
+2018-03-12T02:45:00Z : No Precip
+2018-03-12T02:46:00Z : No Precip
+2018-03-12T02:47:00Z : No Precip
+2018-03-12T02:48:00Z : No Precip
+2018-03-12T02:49:00Z : No Precip
+2018-03-12T02:50:00Z : No Precip
+2018-03-12T02:51:00Z : No Precip
+2018-03-12T02:52:00Z : No Precip
+2018-03-12T02:53:00Z : No Precip
+2018-03-12T02:54:00Z : No Precip
+2018-03-12T02:55:00Z : No Precip
+2018-03-12T02:56:00Z : No Precip
+2018-03-12T02:57:00Z : No Precip
+2018-03-12T02:58:00Z : No Precip
+2018-03-12T02:59:00Z : No Precip
+2018-03-12T03:00:00Z : No Precip
+
+
+Hourly Forecast - Next 48 Hours
+    date = 2018-03-12T02:00:00Z
+    local time = 10:00 PM, Sun, Mar 11, 2018 
+    icon = partly-cloudy-night
+    temperature = 37
+    feels like temp = 34
+    wind = WNW 4 mph, gust: 4 mph
+    precip chance = 4%
+    precip intensity = Very Light
+    preip type = snow
+    cloud cover amount = 45%
+    humidity = 56%
+    uv index = Low
+
+    date = 2018-03-12T03:00:00Z
+    local time = 11:00 PM, Sun, Mar 11, 2018 
+    icon = partly-cloudy-night
+    temperature = 35
+    feels like temp = 31
+    wind = NW 4 mph, gust: 5 mph
+    precip chance = 0%
+    cloud cover amount = 31%
+    humidity = 64%
+    uv index = Low
+
+    date = 2018-03-12T04:00:00Z
+    local time = 12:00 AM, Mon, Mar 12, 2018 
+    icon = clear-night
+    temperature = 33
+    feels like temp = 29
+    wind = NW 5 mph, gust: 8 mph
+    precip chance = 6%
+    precip intensity = Very Light
+    preip type = snow
+    cloud cover amount = 21%
+    humidity = 73%
+    uv index = Low
+
+    date = 2018-03-12T05:00:00Z
+    local time = 01:00 AM, Mon, Mar 12, 2018 
+    icon = clear-night
+    temperature = 31
+    feels like temp = 27
+    wind = NW 5 mph, gust: 9 mph
+    precip chance = 5%
+    precip intensity = Very Light
+    preip type = snow
+    cloud cover amount = 17%
+    humidity = 80%
+    uv index = Low
+
+    date = 2018-03-12T06:00:00Z
+    local time = 02:00 AM, Mon, Mar 12, 2018 
+    icon = clear-night
+    temperature = 30
+    feels like temp = 25
+    wind = NNW 5 mph, gust: 10 mph
+    precip chance = 0%
+    cloud cover amount = 16%
+    humidity = 82%
+    uv index = Low
+
+    date = 2018-03-12T07:00:00Z
+    local time = 03:00 AM, Mon, Mar 12, 2018 
+    icon = clear-night
+    temperature = 30
+    feels like temp = 24
+    wind = NNW 5 mph, gust: 9 mph
+    precip chance = 0%
+    cloud cover amount = 14%
+    humidity = 82%
+    uv index = Low
+
+    date = 2018-03-12T08:00:00Z
+    local time = 04:00 AM, Mon, Mar 12, 2018 
+    icon = clear-night
+    temperature = 29
+    feels like temp = 23
+    wind = NNW 5 mph, gust: 9 mph
+    precip chance = 2%
+    precip intensity = Very Light
+    preip type = snow
+    cloud cover amount = 10%
+    humidity = 83%
+    uv index = Low
+
+    date = 2018-03-12T09:00:00Z
+    local time = 05:00 AM, Mon, Mar 12, 2018 
+    icon = clear-night
+    temperature = 29
+    feels like temp = 23
+    wind = N 5 mph, gust: 9 mph
+    precip chance = 3%
+    precip intensity = Very Light
+    preip type = snow
+    cloud cover amount = 8%
+    humidity = 82%
+    uv index = Low
+
+    date = 2018-03-12T10:00:00Z
+    local time = 06:00 AM, Mon, Mar 12, 2018 
+    icon = clear-night
+    temperature = 29
+    feels like temp = 23
+    wind = N 5 mph, gust: 9 mph
+    precip chance = 0%
+    cloud cover amount = 9%
+    humidity = 82%
+    uv index = Low
+
+    date = 2018-03-12T11:00:00Z
+    local time = 07:00 AM, Mon, Mar 12, 2018 
+    icon = clear-night
+    temperature = 29
+    feels like temp = 24
+    wind = N 5 mph, gust: 10 mph
+    precip chance = 3%
+    precip intensity = Very Light
+    preip type = snow
+    cloud cover amount = 11%
+    humidity = 83%
+    uv index = Low
+
+    date = 2018-03-12T12:00:00Z
+    local time = 08:00 AM, Mon, Mar 12, 2018 
+    icon = clear-day
+    temperature = 31
+    feels like temp = 26
+    wind = NNE 5 mph, gust: 10 mph
+    precip chance = 6%
+    precip intensity = Very Light
+    preip type = snow
+    cloud cover amount = 14%
+    humidity = 82%
+    uv index = Low
+
+    date = 2018-03-12T13:00:00Z
+    local time = 09:00 AM, Mon, Mar 12, 2018 
+    icon = clear-day
+    temperature = 33
+    feels like temp = 28
+    wind = NNE 5 mph, gust: 11 mph
+    precip chance = 0%
+    cloud cover amount = 23%
+    humidity = 79%
+    uv index = Low
+
+    date = 2018-03-12T14:00:00Z
+    local time = 10:00 AM, Mon, Mar 12, 2018 
+    icon = partly-cloudy-day
+    temperature = 36
+    feels like temp = 31
+    wind = NE 6 mph, gust: 11 mph
+    precip chance = 8%
+    precip intensity = Very Light
+    preip type = rain
+    cloud cover amount = 31%
+    humidity = 76%
+    uv index = Low
+
+    date = 2018-03-12T15:00:00Z
+    local time = 11:00 AM, Mon, Mar 12, 2018 
+    icon = partly-cloudy-day
+    temperature = 38
+    feels like temp = 33
+    wind = NE 6 mph, gust: 12 mph
+    precip chance = 8%
+    precip intensity = Very Light
+    preip type = rain
+    cloud cover amount = 36%
+    humidity = 74%
+    uv index = Low
+
+    date = 2018-03-12T16:00:00Z
+    local time = 12:00 PM, Mon, Mar 12, 2018 
+    icon = partly-cloudy-day
+    temperature = 40
+    feels like temp = 35
+    wind = ENE 7 mph, gust: 12 mph
+    precip chance = 7%
+    precip intensity = Very Light
+    preip type = rain
+    cloud cover amount = 45%
+    humidity = 71%
+    uv index = Low
+
+    date = 2018-03-12T17:00:00Z
+    local time = 01:00 PM, Mon, Mar 12, 2018 
+    icon = partly-cloudy-day
+    temperature = 40
+    feels like temp = 35
+    wind = ENE 8 mph, gust: 13 mph
+    precip chance = 9%
+    precip intensity = Very Light
+    preip type = rain
+    cloud cover amount = 52%
+    humidity = 69%
+    uv index = Moderate
+
+    date = 2018-03-12T18:00:00Z
+    local time = 02:00 PM, Mon, Mar 12, 2018 
+    icon = partly-cloudy-day
+    temperature = 41
+    feels like temp = 36
+    wind = ENE 8 mph, gust: 15 mph
+    precip chance = 10%
+    precip intensity = Very Light
+    preip type = rain
+    cloud cover amount = 60%
+    humidity = 68%
+    uv index = Low
+
+    date = 2018-03-12T19:00:00Z
+    local time = 03:00 PM, Mon, Mar 12, 2018 
+    icon = partly-cloudy-day
+    temperature = 41
+    feels like temp = 36
+    wind = ENE 9 mph, gust: 16 mph
+    precip chance = 10%
+    precip intensity = Very Light
+    preip type = rain
+    cloud cover amount = 70%
+    humidity = 67%
+    uv index = Low
+
+    date = 2018-03-12T20:00:00Z
+    local time = 04:00 PM, Mon, Mar 12, 2018 
+    icon = partly-cloudy-day
+    temperature = 41
+    feels like temp = 35
+    wind = ENE 9 mph, gust: 16 mph
+    precip chance = 10%
+    precip intensity = Very Light
+    preip type = rain
+    cloud cover amount = 80%
+    humidity = 66%
+    uv index = Low
+
+    date = 2018-03-12T21:00:00Z
+    local time = 05:00 PM, Mon, Mar 12, 2018 
+    icon = partly-cloudy-day
+    temperature = 40
+    feels like temp = 34
+    wind = ENE 10 mph, gust: 17 mph
+    precip chance = 10%
+    precip intensity = Very Light
+    preip type = rain
+    cloud cover amount = 89%
+    humidity = 67%
+    uv index = Low
+
+    date = 2018-03-12T22:00:00Z
+    local time = 06:00 PM, Mon, Mar 12, 2018 
+    icon = partly-cloudy-day
+    temperature = 40
+    feels like temp = 33
+    wind = ENE 10 mph, gust: 19 mph
+    precip chance = 10%
+    precip intensity = Very Light
+    preip type = rain
+    cloud cover amount = 93%
+    humidity = 68%
+    uv index = Low
+
+    date = 2018-03-12T23:00:00Z
+    local time = 07:00 PM, Mon, Mar 12, 2018 
+    icon = cloudy
+    temperature = 39
+    feels like temp = 32
+    wind = ENE 10 mph, gust: 20 mph
+    precip chance = 11%
+    precip intensity = Very Light
+    preip type = rain
+    cloud cover amount = 98%
+    humidity = 71%
+    uv index = Low
+
+    date = 2018-03-13T00:00:00Z
+    local time = 08:00 PM, Mon, Mar 12, 2018 
+    icon = cloudy
+    temperature = 39
+    feels like temp = 32
+    wind = ENE 10 mph, gust: 22 mph
+    precip chance = 12%
+    precip intensity = Very Light
+    preip type = rain
+    cloud cover amount = 100%
+    humidity = 72%
+    uv index = Low
+
+    date = 2018-03-13T01:00:00Z
+    local time = 09:00 PM, Mon, Mar 12, 2018 
+    icon = cloudy
+    temperature = 38
+    feels like temp = 31
+    wind = ENE 11 mph, gust: 23 mph
+    precip chance = 13%
+    precip intensity = Very Light
+    preip type = rain
+    cloud cover amount = 98%
+    humidity = 73%
+    uv index = Low
+
+    date = 2018-03-13T02:00:00Z
+    local time = 10:00 PM, Mon, Mar 12, 2018 
+    icon = cloudy
+    temperature = 38
+    feels like temp = 31
+    wind = ENE 11 mph, gust: 24 mph
+    precip chance = 15%
+    precip intensity = Very Light
+    preip type = rain
+    cloud cover amount = 95%
+    humidity = 73%
+    uv index = Low
+
+    date = 2018-03-13T03:00:00Z
+    local time = 11:00 PM, Mon, Mar 12, 2018 
+    icon = partly-cloudy-night
+    temperature = 37
+    feels like temp = 30
+    wind = ENE 11 mph, gust: 25 mph
+    precip chance = 19%
+    precip intensity = Very Light
+    preip type = rain
+    cloud cover amount = 93%
+    humidity = 75%
+    uv index = Low
+
+    date = 2018-03-13T04:00:00Z
+    local time = 12:00 AM, Tue, Mar 13, 2018 
+    icon = cloudy
+    temperature = 36
+    feels like temp = 28
+    wind = ENE 12 mph, gust: 27 mph
+    precip chance = 31%
+    precip intensity = Very Light
+    preip type = rain
+    cloud cover amount = 94%
+    humidity = 79%
+    uv index = Low
+
+    date = 2018-03-13T05:00:00Z
+    local time = 01:00 AM, Tue, Mar 13, 2018 
+    icon = cloudy
+    temperature = 35
+    feels like temp = 27
+    wind = NE 12 mph, gust: 28 mph
+    precip chance = 46%
+    precip intensity = Light
+    preip type = rain
+    cloud cover amount = 98%
+    humidity = 83%
+    uv index = Low
+
+    date = 2018-03-13T06:00:00Z
+    local time = 02:00 AM, Tue, Mar 13, 2018 
+    icon = rain
+    temperature = 34
+    feels like temp = 26
+    wind = NE 12 mph, gust: 29 mph
+    precip chance = 53%
+    precip intensity = Light
+    preip type = rain
+    cloud cover amount = 100%
+    humidity = 86%
+    uv index = Low
+
+    date = 2018-03-13T07:00:00Z
+    local time = 03:00 AM, Tue, Mar 13, 2018 
+    icon = snow
+    temperature = 34
+    feels like temp = 25
+    wind = NE 12 mph, gust: 27 mph
+    precip chance = 50%
+    precip intensity = Light
+    preip type = snow
+    cloud cover amount = 99%
+    humidity = 88%
+    uv index = Low
+
+    date = 2018-03-13T08:00:00Z
+    local time = 04:00 AM, Tue, Mar 13, 2018 
+    icon = snow
+    temperature = 33
+    feels like temp = 25
+    wind = ENE 12 mph, gust: 22 mph
+    precip chance = 47%
+    precip intensity = Light
+    preip type = snow
+    cloud cover amount = 97%
+    humidity = 91%
+    uv index = Low
+
+    date = 2018-03-13T09:00:00Z
+    local time = 05:00 AM, Tue, Mar 13, 2018 
+    icon = snow
+    temperature = 33
+    feels like temp = 24
+    wind = ENE 12 mph, gust: 19 mph
+    precip chance = 47%
+    precip intensity = Light to Moderate
+    preip type = snow
+    cloud cover amount = 96%
+    humidity = 94%
+    uv index = Low
+
+    date = 2018-03-13T10:00:00Z
+    local time = 06:00 AM, Tue, Mar 13, 2018 
+    icon = snow
+    temperature = 32
+    feels like temp = 22
+    wind = NE 13 mph, gust: 19 mph
+    precip chance = 44%
+    precip intensity = Light to Moderate
+    preip type = snow
+    cloud cover amount = 96%
+    humidity = 98%
+    uv index = Low
+
+    date = 2018-03-13T11:00:00Z
+    local time = 07:00 AM, Tue, Mar 13, 2018 
+    icon = snow
+    temperature = 31
+    feels like temp = 21
+    wind = NE 13 mph, gust: 21 mph
+    precip chance = 42%
+    precip intensity = Light to Moderate
+    preip type = snow
+    cloud cover amount = 97%
+    humidity = 100%
+    uv index = Low
+
+    date = 2018-03-13T12:00:00Z
+    local time = 08:00 AM, Tue, Mar 13, 2018 
+    icon = snow
+    temperature = 31
+    feels like temp = 20
+    wind = NE 14 mph, gust: 23 mph
+    precip chance = 41%
+    precip intensity = Light to Moderate
+    preip type = snow
+    cloud cover amount = 98%
+    humidity = 100%
+    uv index = Low
+
+    date = 2018-03-13T13:00:00Z
+    local time = 09:00 AM, Tue, Mar 13, 2018 
+    icon = snow
+    temperature = 31
+    feels like temp = 21
+    wind = NE 15 mph, gust: 26 mph
+    precip chance = 44%
+    precip intensity = Light to Moderate
+    preip type = snow
+    cloud cover amount = 99%
+    humidity = 99%
+    uv index = Low
+
+    date = 2018-03-13T14:00:00Z
+    local time = 10:00 AM, Tue, Mar 13, 2018 
+    icon = snow
+    temperature = 33
+    feels like temp = 22
+    wind = NE 16 mph, gust: 28 mph
+    precip chance = 50%
+    precip intensity = Light to Moderate
+    preip type = snow
+    cloud cover amount = 99%
+    humidity = 96%
+    uv index = Low
+
+    date = 2018-03-13T15:00:00Z
+    local time = 11:00 AM, Tue, Mar 13, 2018 
+    icon = snow
+    temperature = 34
+    feels like temp = 24
+    wind = NE 17 mph, gust: 30 mph
+    precip chance = 57%
+    precip intensity = Light to Moderate
+    preip type = snow
+    cloud cover amount = 100%
+    humidity = 90%
+    uv index = Low
+
+    date = 2018-03-13T16:00:00Z
+    local time = 12:00 PM, Tue, Mar 13, 2018 
+    icon = snow
+    temperature = 35
+    feels like temp = 25
+    wind = NNE 17 mph, gust: 28 mph
+    precip chance = 59%
+    precip intensity = Light to Moderate
+    preip type = snow
+    cloud cover amount = 100%
+    humidity = 86%
+    uv index = Low
+
+    date = 2018-03-13T17:00:00Z
+    local time = 01:00 PM, Tue, Mar 13, 2018 
+    icon = rain
+    temperature = 36
+    feels like temp = 26
+    wind = NNE 16 mph, gust: 26 mph
+    precip chance = 58%
+    precip intensity = Light to Moderate
+    preip type = rain
+    cloud cover amount = 100%
+    humidity = 82%
+    uv index = Low
+
+    date = 2018-03-13T18:00:00Z
+    local time = 02:00 PM, Tue, Mar 13, 2018 
+    icon = snow
+    temperature = 35
+    feels like temp = 26
+    wind = NNE 16 mph, gust: 24 mph
+    precip chance = 54%
+    precip intensity = Light
+    preip type = snow
+    cloud cover amount = 100%
+    humidity = 81%
+    uv index = Low
+
+    date = 2018-03-13T19:00:00Z
+    local time = 03:00 PM, Tue, Mar 13, 2018 
+    icon = snow
+    temperature = 35
+    feels like temp = 25
+    wind = N 16 mph, gust: 26 mph
+    precip chance = 48%
+    precip intensity = Light
+    preip type = snow
+    cloud cover amount = 100%
+    humidity = 81%
+    uv index = Low
+
+    date = 2018-03-13T20:00:00Z
+    local time = 04:00 PM, Tue, Mar 13, 2018 
+    icon = snow
+    temperature = 34
+    feels like temp = 24
+    wind = N 16 mph, gust: 28 mph
+    precip chance = 41%
+    precip intensity = Light
+    preip type = snow
+    cloud cover amount = 100%
+    humidity = 82%
+    uv index = Low
+
+    date = 2018-03-13T21:00:00Z
+    local time = 05:00 PM, Tue, Mar 13, 2018 
+    icon = snow
+    temperature = 34
+    feels like temp = 24
+    wind = NNW 15 mph, gust: 28 mph
+    precip chance = 36%
+    precip intensity = Light
+    preip type = snow
+    cloud cover amount = 100%
+    humidity = 83%
+    uv index = Low
+
+    date = 2018-03-13T22:00:00Z
+    local time = 06:00 PM, Tue, Mar 13, 2018 
+    icon = snow
+    temperature = 34
+    feels like temp = 24
+    wind = NNW 15 mph, gust: 26 mph
+    precip chance = 33%
+    precip intensity = Light
+    preip type = snow
+    cloud cover amount = 100%
+    humidity = 83%
+    uv index = Low
+
+    date = 2018-03-13T23:00:00Z
+    local time = 07:00 PM, Tue, Mar 13, 2018 
+    icon = snow
+    temperature = 34
+    feels like temp = 24
+    wind = NW 13 mph, gust: 22 mph
+    precip chance = 31%
+    precip intensity = Light
+    preip type = snow
+    cloud cover amount = 100%
+    humidity = 83%
+    uv index = Low
+
+    date = 2018-03-14T00:00:00Z
+    local time = 08:00 PM, Tue, Mar 13, 2018 
+    icon = snow
+    temperature = 34
+    feels like temp = 25
+    wind = NW 13 mph, gust: 20 mph
+    precip chance = 29%
+    precip intensity = Light
+    preip type = snow
+    cloud cover amount = 100%
+    humidity = 83%
+    uv index = Low
+
+    date = 2018-03-14T01:00:00Z
+    local time = 09:00 PM, Tue, Mar 13, 2018 
+    icon = snow
+    temperature = 34
+    feels like temp = 25
+    wind = NW 12 mph, gust: 20 mph
+    precip chance = 25%
+    precip intensity = Very Light
+    preip type = snow
+    cloud cover amount = 100%
+    humidity = 83%
+    uv index = Low
+
+    date = 2018-03-14T02:00:00Z
+    local time = 10:00 PM, Tue, Mar 13, 2018 
+    icon = cloudy
+    temperature = 33
+    feels like temp = 25
+    wind = NW 11 mph, gust: 21 mph
+    precip chance = 21%
+    precip intensity = Very Light
+    preip type = snow
+    cloud cover amount = 100%
+    humidity = 85%
+    uv index = Low
+
+
+Daily Forecast - Next 7 Days
+                       date = Sun, Mar 11, 2018
+              date and time = 2018-03-11T05:00:00Z
+                    summary = Mostly cloudy starting in the afternoon.
+                       icon = partly-cloudy-day
+                    sunrise = 2018-03-11T11:03:58Z
+                     sunset = 2018-03-11T22:47:08Z
+         cloud cover amount = 43%
+           cloud cover desc = Partly Cloudy
+                precip type = rain
+         precip probability = 13%
+          snow accumulation = 0.0 in.
+     precip intensity value = 0.0011
+      precip intensity desc = Very Light
+ max precip intensity value = 0.0072
+  max precip intensity desc = Very Light
+  max precip intensity time = 2018-03-11T19:00:00Z
+                   low temp = 29
+              low temp time = 2018-03-12T09:00:00Z
+                  high temp = 44
+             high temp time = 2018-03-11T20:00:00Z
+                 wind speed = 5 mph
+             wind direction = WNW
+   wind direction full name = West-Northwest
+              max wind gust = 10 mph
+         max wind gust time = 2018-03-11T15:00:00Z
+        barometric pressure = 1014.85 mb
+        barometric pressure = 29.97 in
+              dewpoint temp = 21.72
+          relative humidity = 54%
+            uv index rating = Moderate
+          max uv index time = 2018-03-11T16:00:00Z
+           moon phase value = 0.82
+            moon phase desc = Waining Crescent
+
+                       date = Mon, Mar 12, 2018
+              date and time = 2018-03-12T04:00:00Z
+                    summary = Mixed precipitation overnight.
+                       icon = rain
+                    sunrise = 2018-03-12T11:02:18Z
+                     sunset = 2018-03-12T22:48:14Z
+         cloud cover amount = 49%
+           cloud cover desc = Partly Cloudy
+                precip type = rain
+         precip probability = 22%
+          snow accumulation = 0.0 in.
+     precip intensity value = 0.0007
+      precip intensity desc = Very Light
+ max precip intensity value = 0.0024
+  max precip intensity desc = Very Light
+  max precip intensity time = 2018-03-13T03:00:00Z
+                   low temp = 31
+              low temp time = 2018-03-13T12:00:00Z
+                  high temp = 41
+             high temp time = 2018-03-12T19:00:00Z
+                 wind speed = 6 mph
+             wind direction = NE
+   wind direction full name = Northeast
+              max wind gust = 25 mph
+         max wind gust time = 2018-03-13T03:00:00Z
+        barometric pressure = 1016.75 mb
+        barometric pressure = 30.02 in
+              dewpoint temp = 28.24
+          relative humidity = 75%
+            uv index rating = Moderate
+          max uv index time = 2018-03-12T17:00:00Z
+           moon phase value = 0.85
+            moon phase desc = Waining Crescent
+
+                       date = Tue, Mar 13, 2018
+              date and time = 2018-03-13T04:00:00Z
+                    summary = Snow (5–8 in.) until evening.
+                       icon = snow
+                    sunrise = 2018-03-13T11:00:35Z
+                     sunset = 2018-03-13T22:49:24Z
+         cloud cover amount = 99%
+           cloud cover desc = Cloudy
+                precip type = snow
+         precip probability = 95%
+          snow accumulation = 6.881 in.
+     precip intensity value = 0.0422
+      precip intensity desc = Light
+ max precip intensity value = 0.0749
+  max precip intensity desc = Light to Moderate
+  max precip intensity time = 2018-03-13T15:00:00Z
+                   low temp = 28
+              low temp time = 2018-03-14T10:00:00Z
+                  high temp = 36
+             high temp time = 2018-03-13T17:00:00Z
+                 wind speed = 11 mph
+             wind direction = NNE
+   wind direction full name = North-Northeast
+              max wind gust = 30 mph
+         max wind gust time = 2018-03-13T15:00:00Z
+        barometric pressure = 1001.84 mb
+        barometric pressure = 29.58 in
+              dewpoint temp = 30.28
+          relative humidity = 88%
+            uv index rating = Low
+          max uv index time = 2018-03-13T16:00:00Z
+           moon phase value = 0.88
+            moon phase desc = Waining Crescent
+
+                       date = Wed, Mar 14, 2018
+              date and time = 2018-03-14T04:00:00Z
+                    summary = Mostly cloudy throughout the day.
+                       icon = partly-cloudy-day
+                    sunrise = 2018-03-14T10:58:51Z
+                     sunset = 2018-03-14T22:50:33Z
+         cloud cover amount = 66%
+           cloud cover desc = Mostly Cloudy
+                precip type = snow
+         precip probability = 32%
+          snow accumulation = 0.237 in.
+     precip intensity value = 0.0012
+      precip intensity desc = Very Light
+ max precip intensity value = 0.006
+  max precip intensity desc = Very Light
+  max precip intensity time = 2018-03-14T04:00:00Z
+                   low temp = 28
+              low temp time = 2018-03-15T11:00:00Z
+                  high temp = 38
+             high temp time = 2018-03-14T19:00:00Z
+                 wind speed = 12 mph
+             wind direction = WSW
+   wind direction full name = West-Southwest
+              max wind gust = 28 mph
+         max wind gust time = 2018-03-14T19:00:00Z
+        barometric pressure = 996.16 mb
+        barometric pressure = 29.42 in
+              dewpoint temp = 26.95
+          relative humidity = 79%
+            uv index rating = Low
+          max uv index time = 2018-03-14T15:00:00Z
+           moon phase value = 0.91
+            moon phase desc = Waining Crescent
+
+                       date = Thu, Mar 15, 2018
+              date and time = 2018-03-15T04:00:00Z
+                    summary = Mostly cloudy throughout the day.
+                       icon = partly-cloudy-day
+                    sunrise = 2018-03-15T10:57:07Z
+                     sunset = 2018-03-15T22:51:42Z
+         cloud cover amount = 78%
+           cloud cover desc = Mostly Cloudy
+                precip type = snow
+         precip probability = 14%
+          snow accumulation = 0.084 in.
+     precip intensity value = 0.0005
+      precip intensity desc = Very Light
+ max precip intensity value = 0.0017
+  max precip intensity desc = Very Light
+  max precip intensity time = 2018-03-15T07:00:00Z
+                   low temp = 27
+              low temp time = 2018-03-16T11:00:00Z
+                  high temp = 40
+             high temp time = 2018-03-15T21:00:00Z
+                 wind speed = 10 mph
+             wind direction = W
+   wind direction full name = West
+              max wind gust = 29 mph
+         max wind gust time = 2018-03-15T11:00:00Z
+        barometric pressure = 997.66 mb
+        barometric pressure = 29.46 in
+              dewpoint temp = 25.48
+          relative humidity = 72%
+            uv index rating = Low
+          max uv index time = 2018-03-15T16:00:00Z
+           moon phase value = 0.94
+            moon phase desc = Waining Crescent
+
+                       date = Fri, Mar 16, 2018
+              date and time = 2018-03-16T04:00:00Z
+                    summary = Mostly cloudy starting in the afternoon.
+                       icon = partly-cloudy-night
+                    sunrise = 2018-03-16T10:55:23Z
+                     sunset = 2018-03-16T22:52:50Z
+         cloud cover amount = 37%
+           cloud cover desc = Partly Cloudy
+                precip type = snow
+         precip probability = 12%
+          snow accumulation = 0.019 in.
+     precip intensity value = 0.0001
+      precip intensity desc = Very Light
+ max precip intensity value = 0.0006
+  max precip intensity desc = Very Light
+  max precip intensity time = 2018-03-17T00:00:00Z
+                   low temp = 29
+              low temp time = 2018-03-17T03:00:00Z
+                  high temp = 39
+             high temp time = 2018-03-16T20:00:00Z
+                 wind speed = 11 mph
+             wind direction = NW
+   wind direction full name = Northwest
+              max wind gust = 30 mph
+         max wind gust time = 2018-03-17T01:00:00Z
+        barometric pressure = 1008.04 mb
+        barometric pressure = 29.77 in
+              dewpoint temp = 21.22
+          relative humidity = 63%
+            uv index rating = Moderate
+          max uv index time = 2018-03-16T16:00:00Z
+           moon phase value = 0.97
+            moon phase desc = Waining Crescent
+
+                       date = Sat, Mar 17, 2018
+              date and time = 2018-03-17T04:00:00Z
+                    summary = Mostly cloudy throughout the day.
+                       icon = partly-cloudy-day
+                    sunrise = 2018-03-17T10:53:38Z
+                     sunset = 2018-03-17T22:53:59Z
+         cloud cover amount = 86%
+           cloud cover desc = Mostly Cloudy
+                precip type = rain
+         precip probability = 26%
+          snow accumulation = 0.0 in.
+     precip intensity value = 0.0032
+      precip intensity desc = Very Light
+ max precip intensity value = 0.0136
+  max precip intensity desc = Very Light
+  max precip intensity time = 2018-03-17T08:00:00Z
+                   low temp = 27
+              low temp time = 2018-03-18T07:00:00Z
+                  high temp = 41
+             high temp time = 2018-03-17T15:00:00Z
+                 wind speed = 7 mph
+             wind direction = W
+   wind direction full name = West
+              max wind gust = 32 mph
+         max wind gust time = 2018-03-17T11:00:00Z
+        barometric pressure = 1008.39 mb
+        barometric pressure = 29.78 in
+              dewpoint temp = 26.19
+          relative humidity = 66%
+            uv index rating = Low
+          max uv index time = 2018-03-17T15:00:00Z
+           moon phase value = 0.01
+            moon phase desc = Waxing Crescent
+
+                       date = Sun, Mar 18, 2018
+              date and time = 2018-03-18T04:00:00Z
+                    summary = Mostly cloudy until evening.
+                       icon = partly-cloudy-day
+                    sunrise = 2018-03-18T10:51:53Z
+                     sunset = 2018-03-18T22:55:07Z
+         cloud cover amount = 56%
+           cloud cover desc = Partly Cloudy
+                precip type = rain
+         precip probability = 26%
+          snow accumulation = 0.0 in.
+     precip intensity value = 0.0005
+      precip intensity desc = Very Light
+ max precip intensity value = 0.0017
+  max precip intensity desc = Very Light
+  max precip intensity time = 2018-03-18T04:00:00Z
+                   low temp = 35
+              low temp time = 2018-03-19T12:00:00Z
+                  high temp = 52
+             high temp time = 2018-03-18T19:00:00Z
+                 wind speed = 4 mph
+             wind direction = WNW
+   wind direction full name = West-Northwest
+              max wind gust = 27 mph
+         max wind gust time = 2018-03-19T00:00:00Z
+        barometric pressure = 1010.23 mb
+        barometric pressure = 29.83 in
+              dewpoint temp = 28.37
+          relative humidity = 63%
+            uv index rating = Moderate
+          max uv index time = 2018-03-18T16:00:00Z
+           moon phase value = 0.04
+            moon phase desc = Waxing Crescent
+
+
+High Level Info
+        time zone offset = -4.0
+                timezone = America/New_York
+               longitude = -71.0596
+                latitude = 42.3605
+         current summary = Partly Cloudy
+ next 60 minutes summary = Partly cloudy for the hour.
+   next 48 hours summary = Mostly cloudy starting tomorrow morning.
+     next 7 days summary = Snow (5–9 in.) on Tuesday and Wednesday, with temperatures bottoming out at 36°F on Tuesday.
+   current date and time = Mon Mar 12 02:00:20 2018
